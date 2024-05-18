@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/3wxWY6UvT)]
+[![MasterHead](https://telegra.ph/file/711b076d7c218c5da5d75.jpg)]
 ### Hi there 👋
 
 **Greyxz** is still a beginner 

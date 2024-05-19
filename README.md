@@ -12,6 +12,6 @@ I will help you how to use:
 - Code Html
 - Crate Games pixel
 - Pterodactyl Panel In Github 
-- and others
+- Rvc Ai Cover
 
 

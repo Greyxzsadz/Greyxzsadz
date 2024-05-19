@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Greyxz</h1>
 
-<img align="right" alt="Coding" width="400" src="https://telegra.ph/file/5fc4ce92fb6e960dec8d6.mp4">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardha27&label=Profile%20views&color=0e75b6&style=flat" alt="ardha27" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://telegra.ph/file/ed62381ced40a6fafeb1e.mp4">
+<p align="left"> 
 
 **Greyxz** is still a beginner 
 I will help you how to use:

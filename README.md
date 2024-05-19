@@ -18,8 +18,8 @@ I will help you how to use:
 Chat Owner or group if there are problems with this code
 
 #
-[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LAWdMIQri9SKee5kqmISH0) 
-[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62857604516837)
+[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JTnlMa05z0JAk2HNEnCIrq) 
+[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60149165738)
 ,
 
 <img align="right" alt="Coding" width="400" src="https://telegra.ph/file/c1c4934d236bbad3009b9.jpg">

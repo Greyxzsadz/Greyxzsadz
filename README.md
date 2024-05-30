@@ -14,6 +14,7 @@ I will help you how to use:
 - Crate Games pixel
 - Pterodactyl Panel In Github 
 - RVC Ai Cover
+The tutorial is on YouTube which I informed above
 
 Chat Owner or group if there are problems with this code
 
